@@ -1,7 +1,6 @@
 # Banking
 
 <h1> 
-Work in progress*
 
 <br>
 <br>
